@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Beehive](../assets/images/beehive2.jpg?raw=true)
+
 <!--
 
 **Here are some ideas to get you started:**
