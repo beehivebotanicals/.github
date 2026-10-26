@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Beehive](../assets/images/beehive2.jpg?raw=true)
+![Beehive](/assets/images/beehive2.jpg?raw=true)
 
 <!--
 
