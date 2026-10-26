@@ -8,6 +8,8 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
 🍿 Fun facts - what does your team eat for breakfast?  
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<br>
+[Additional reference](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 <!--
 Notes:
 - use two spaces at end of each line to simulate a return or line break
