@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Beehive](../assets/images/beehive2.jpg?raw=true)
+
+![Beehive](https://github.com/beehivebotanicals/.github/assets/images/beehive2.jpg)
 
 <!--
 
