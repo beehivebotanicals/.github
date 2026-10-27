@@ -1,6 +1,6 @@
 ![Beehive](../assets/images/beehive2.jpg)
 
-## Welcome 👋
+## Welcome to the Public Overview👋
 **Here are some ideas to get us started for the readme.md page:**
 
 🙋‍♀️ A short introduction - what is your organization all about?  
