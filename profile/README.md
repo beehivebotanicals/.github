@@ -1,4 +1,4 @@
-![Beehive][https://beehivebotanicals.com/cdn/shop/files/getty-images-fDdYJgHE3Wk-unsplash_1.jpg?v=1791747815&width=3840]
+![Beehive](https://beehivebotanicals.com/cdn/shop/files/getty-images-fDdYJgHE3Wk-unsplash_1.jpg?v=1791747815&width=3840)
 
 ## Welcome to Beehive Botanicals👋
 
