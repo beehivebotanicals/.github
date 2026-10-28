@@ -1,7 +1,7 @@
 <table style="width:100%; table-layout:fixed; border-collapse:collapse; border=1; cellpadding=5; cellspacing=0; cellpadding=5; cellspacing=0">
 
   <tr>
-    <td style="width:20%">
+    <td style="width:40%">
       <a href="https://beehivebotanicals.com">
        <img src="https://beehivebotanicals.com/cdn/shop/files/getty-images-fDdYJgHE3Wk-unsplash_1.jpg" alt="Beehive Botanicals" width="200" height="150" style="display:block; margin:auto;">
       </a>
